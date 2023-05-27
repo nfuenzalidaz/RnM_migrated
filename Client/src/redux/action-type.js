@@ -1,0 +1,8 @@
+export const GET_CHARACTER = 'GET_CHARACTER'
+export const GET_DETAILS = 'GET_DETAILS'
+export const CLEAR_DETAILS = 'CLEAR_DETAILS'
+export const CLOSE_CHARACTER = 'CLOSE_CHARACTER'
+export const ADD_FAV = 'ADD_FAV'
+export const REMOVE_FAV = 'REMOVE_FAV'
+export const FILTER = 'FILTER'
+export const ORDER = 'ORDER'
